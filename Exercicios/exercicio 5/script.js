@@ -1,0 +1,1 @@
+console.log("Daniela" * 123);
